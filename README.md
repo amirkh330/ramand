@@ -3,4 +3,4 @@
 
 created: amir73khakbaz@gmail.com
 <hr/>
-publish:
+publish: https://sharp-benz-281663.netlify.app
